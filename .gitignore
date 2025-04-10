@@ -1,1 +1,8 @@
+# Ignore .DS_Store files
 .DS_Store
+
+# Ignore JetBrains IDE configuration files
+.idea/
+
+# Ignore log files
+*.log
