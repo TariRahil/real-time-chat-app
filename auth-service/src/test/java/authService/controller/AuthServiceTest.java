@@ -5,7 +5,7 @@ import authService.model.User;
 import authService.repository.UserRepository;
 import authService.security.JwtUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import config.TestSecurityConfig;
+import authService.config.TestSecurityConfig;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
